@@ -1,7 +1,7 @@
 # Java_input_ouput
 Tugas_1
 
-public static void main(String[] args) {
+	public static void main(String[] args) {
         Scanner inputUser = new Scanner(System.in);
         int[] nilai = new int[7];
         int kecil=999,besar=0,jumlah=0;
